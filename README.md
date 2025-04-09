@@ -10,3 +10,5 @@ Example: If a user inputs 10, 5, and +, your program should display 10 + 5 = 15.
 
 
 Note: Upload the code to GitHub and submit the GitHub link
+
+The rest are Coding practice quests/exercises done before the assignment (BasicCalc.py) itself
